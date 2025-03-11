@@ -11,17 +11,7 @@ export default function MainPage(): React.ReactNode {
         <div className="mt-40 mx-3"></div>
       </div>
       <div className="flex bg-black w-full h-auto justify-between">
-        <h1 className="text-sm font-semibold text-white ml-3 ">
-          Developed With प्यार By{" "}
-          <Link
-            href={"https://x.com/ayusssshhhhhhh"}
-            className="underline hover:no-underline hover:text-zinc-400 transition-colors duration-200"
-            target="_blank"
-          >
-            {" "}
-            @ayusssshhhhhhh{" "}
-          </Link>
-        </h1>
+        
         <div className="text-2xl font-semibold text-white flex gap-3 mr-2 mb-2">
           <Link
             href={"https://twitter.com/ayusssshhhhhhh"}
