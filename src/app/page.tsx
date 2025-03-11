@@ -25,7 +25,7 @@ export default function Home() {
               src={"/dashboard.png"}
               alt="Image"
               width={1920}
-              height={1400}
+              height={1000}
               // 1080
             ></Image>
           </NeonGradientCard>
