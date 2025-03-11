@@ -25,12 +25,13 @@ export default function Home() {
               src={"/dashboard.png"}
               alt="Image"
               width={1920}
-              height={1080}
+              height={1400}
+              // 1080
             ></Image>
           </NeonGradientCard>
         </BlurFade>
         
-        <div className="mt-10">
+        <div className="mt-20">
           <div className="flex bg-black w-full h-auto justify-center mt-40">
             
             <div className="text-2xl font-semibold justify-center text-white flex gap-3 mr-2 mb-2">
